@@ -1,0 +1,12 @@
+.comparePlan {
+    background-image: linear-gradient(to right,
+            rgb(255, 247, 229),
+            rgb(255, 255, 255)) !important;
+}
+/* .checkbox{
+    display: none;
+} */
+
+.comparePlan label{
+    margin-left: 10px;
+}
